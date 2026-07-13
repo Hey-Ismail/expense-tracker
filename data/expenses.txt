@@ -1,0 +1,176 @@
+==================================================
+| Record ID : 1                                  |
+| Date      : 07/10/2026                         |
+| Time      : 06:08 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 0                  |
+| 2. Transportation         : 0                  |
+| 3. Mobile Bill            : 0                  |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 89                 |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : 89                 |
+==================================================
+
+==================================================
+| Record ID : 2                                  |
+| Date      : 07/10/2026                         |
+| Time      : 06:09 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 6889               |
+| 2. Transportation         : 0                  |
+| 3. Mobile Bill            : 0                  |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 0                  |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : 6889               |
+==================================================
+
+==================================================
+| Record ID : 3                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:26 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 89                 |
+| 2. Transportation         : 0                  |
+| 3. Mobile Bill            : 0                  |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 0                  |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : 89                 |
+==================================================
+
+==================================================
+| Record ID : 4                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:34 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 70                 |
+| 2. Transportation         : 0                  |
+| 3. Mobile Bill            : 0                  |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 89                 |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : 159                |
+==================================================
+
+==================================================
+| Record ID : 5                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:37 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 90                 |
+| 2. Transportation         : 90                 |
+| 3. Mobile Bill            : 0                  |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 0                  |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : 180                |
+==================================================
+
+==================================================
+| Record ID : 6                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:44 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 8000               |
+| 2. Transportation         : 0                  |
+| 3. Mobile Bill            : 7000               |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 0                  |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 12000              |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=| Total Expense             : ৳ 27000            || average Expense           : ৳ 3000.0           |=
+
+==================================================
+| Record ID : 7                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:46 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 80                 |
+| 2. Transportation         : 0                  |
+| 3. Mobile Bill            : 10                 |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 0                  |
+| 6. Groceries              : 590                |
+| 7. Entertainment          : 600                |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=| Total Expense             : ৳ 1280             || average Expense           : ৳ 142.22222222222223 |=
+
+==================================================
+| Record ID : 8                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:49 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 90                 |
+| 2. Transportation         : 9                  |
+| 3. Mobile Bill            : 0                  |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 0                  |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=| Total Expense             : ৳ 99               || average Expense           : ৳ 11.0             |=
+
+==================================================
+| Record ID : 9                                  |
+| Date      : 07/13/2026                         |
+| Time      : 03:51 PM                           |
+--------------------------------------------------
+|                Expense Summary                 |
+--------------------------------------------------
+| 1. Food                   : 90                 |
+| 2. Transportation         : 40                 |
+| 3. Mobile Bill            : 60                 |
+| 4. Rent                   : 0                  |
+| 5. Utilities              : 40                 |
+| 6. Groceries              : 0                  |
+| 7. Entertainment          : 0                  |
+| 8. Health                 : 0                  |
+| 9. Others                 : 0                  |
+|------------------------------------------------|
+| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=| Total Expense             : ৳ 230              || average Expense           : ৳ 25.555555555555557 |=
+
