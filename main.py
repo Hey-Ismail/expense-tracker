@@ -5,6 +5,7 @@ import numpy as np
 
 class ExpenseTracker:
     def __init__(self):
+        self.name = ""
         self.expenses = {
             "food": 0,
             "transportation": 0,
@@ -168,6 +169,7 @@ class ExpenseTracker:
             f"| {'Record ID : ' + str(next_id):<{width - 4}} |",
             f"| {'Date      : ' + date:<{width - 4}} |",
             f"| {'Time      : ' + timee:<{width - 4}} |",
+            f"| {'Name      : ' + self.name:<{width - 4}} |",
             "-" * width,
             f"| {'Expense Summary':^{width - 4}} |",
             "-" * width,
@@ -213,6 +215,10 @@ class ExpenseTracker:
         timee = time.strftime("%I:%M %p", time_tuple)
         print(f"| {'Todays Date : ' + date:<{line_width - 4}} |")
         print(f"| {'Todays Time : ' + timee:<{line_width - 4}} |")
+        print("-" * line_width)
+
+        self.name = input("\nEnter your name: ")
+        print(f"\nWelcome, {self.name}!")
         print("-" * line_width)
 
         self.showMenu()
