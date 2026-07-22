@@ -141,7 +141,7 @@ class ExpenseTracker:
 
         print("|" + "-" * (width - 2) + "|")
         print(f"| {'Total Expense':<25} : ৳ {np.sum(list(self.expenses.values())):<16} |")
-        print(f"| {'average Expense':<25} : ৳ {np.mean(list(self.expenses.values())):<16} |")
+        print(f"| {'average Expense':<25} : ৳ {np.mean(list(self.expenses.values())):<16.2f} |")
         print(f"| {'maximum Expense':<25} : ৳ {np.max(list(self.expenses.values())):<16} |")
         print(f"| {'minimum Expense':<25} : ৳ {np.min(list(self.expenses.values())):<16} |")
         print("-" * width)
@@ -183,10 +183,10 @@ class ExpenseTracker:
             f"| {'8. Health':<25} : {self.expenses['health']:<18} |",
             f"| {'9. Others':<25} : {self.expenses['others']:<18} |",
             "|" + "-" * (width - 2) + "|",
-            f"| {'Total Expense':<25} : ৳ {np.sum(list(self.expenses.values())):<16} |"
-            f"| {'average Expense':<25} : ৳ {np.mean(list(self.expenses.values())):<16} |"
-            f"| {'maximum Expense':<25} : ৳ {np.max(list(self.expenses.values())):<16} |"
-            f"| {'minimum Expense':<25} : ৳ {np.min(list(self.expenses.values())):<16} |"
+            f"| {'Total Expense':<25} : ৳ {np.sum(list(self.expenses.values())):<16} |",
+            f"| {'average Expense':<25} : ৳ {np.mean(list(self.expenses.values())):<16.2f} |",
+            f"| {'maximum Expense':<25} : ৳ {np.max(list(self.expenses.values())):<16} |",
+            f"| {'minimum Expense':<25} : ৳ {np.min(list(self.expenses.values())):<16} |",
 
             "=" * width,
             "",
